@@ -1,26 +1,22 @@
-# E-commerce-Website
-This project is a fully functional e-commerce website designed to provide users with a seamless online shopping experience. It includes features such as product listings, user authentication, shopping cart, order management, and payment integration. The platform allows users to browse products, add them to the cart, and make secure purchases.
+# E-CommerceWebsite
+ A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+ 
+ 
+ 
+### Home page
+![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
 
-Key Features 🔑:
 
-User Authentication 🔐: Secure sign-up and login functionality with password encryption.
-Product Catalog 🛍️: Display products with categories, images, descriptions, and pricing.
-Shopping Cart 🛒: Users can add, remove, and update quantities of items in their cart.
-Order Management 📦: Users can view their order history and status.
-Payment Integration 💳: Integration with payment gateways like Stripe or PayPal for secure transactions.
-Admin Dashboard 🖥️: For product management, order tracking, and customer management.
 
-Technologies Used ⚙️:
+### Content Description page
+![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
 
-Frontend 💻: HTML, CSS, JavaScript 
-Database 🗄️: MongoDB
-Payment Integration 💳: Stripe/PayPal API
-Version Control 🔄: Git/GitHub
 
-Repository Contents 📁:
 
-Frontend: The client-side code responsible for rendering the UI and interacting with the backend.
-Backend: API routes for handling authentication, product management, orders, and payments.
-Database Models: Mongoose models (if using MongoDB) or SQL schema for relational databases.
-Documentation 📑: A README file with setup instructions and API documentation.
+### Ordered List page
+![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
 
+
+
+### Order confirm page
+![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
